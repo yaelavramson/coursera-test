@@ -9,13 +9,15 @@ h1 {
     text-align: right;
     margin-right: 30px;
     border:1px solid black;
+    margin-left: 200px;
 }
 
 #pizza {
-    color:green
+    color:green;
     text-align: right;
     margin-right: 30px;
     border:1px solid black;
+    margin-left: 200px;
 }
 
 #macaroni {
@@ -23,6 +25,7 @@ h1 {
     text-align:right;
     margin-right: 30px;
     border:1px solid black;
+    margin-left: 200px;
 }
 div {
    border: 1px solid black;
