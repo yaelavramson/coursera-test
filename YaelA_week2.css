@@ -1,0 +1,48 @@
+h1 {
+    color:rgb(119, 0, 255);
+    text-align: center;
+    
+}
+
+h2 {
+    color:tomato;
+    text-align: right;
+    margin-right: 40px;
+}
+
+div {
+   border: 1px solid black;
+   background-color: cyan;
+   width: 90%;
+   margin-right: auto;
+   margin-left: 40px;
+   margin-bottom: 40px;
+  
+   
+}
+
+p {
+    color:violet;
+    max-width: 30px;
+    min-height: 212px;
+}
+
+@media (min-width: 1200px) {
+    .col-lg-3 {
+        float:left;
+        border: 1px solid black;   
+        width: 20.33%;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .col-md-6 {
+        float: left;
+        border: 1px solid black;
+        width: 40.33%
+    }
+
+}
+
+@media
