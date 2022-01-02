@@ -9,6 +9,7 @@ h1 {
     text-align: right;
     border:1px solid black;
     margin-left: 200px;
+    margin-top: 0px;
 }
 
 #pizza {
@@ -16,6 +17,7 @@ h1 {
     text-align: right;
     border:1px solid black;
     margin-left: 200px;
+    margin-top: 0px;
 }
 
 #macaroni {
@@ -23,6 +25,7 @@ h1 {
     text-align:right;
     border:1px solid black;
     margin-left: 200px;
+    margin-top: 0px;
 }
 div {
    border: 1px solid black;
