@@ -27,7 +27,7 @@ p {
     min-height: 212px;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
     .col-lg-3 {
         float:left;
         border: 1px solid black;   
@@ -36,7 +36,7 @@ p {
 
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 768px) and (max-width: 991px) {
     .col-md-6 {
         float: left;
         border: 1px solid black;
