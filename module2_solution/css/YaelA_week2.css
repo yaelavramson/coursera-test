@@ -5,25 +5,22 @@ h1 {
 }
 
 #sushi {
-    color:tomato;
+    background-color:tomato;
     text-align: right;
-    margin-right: 30px;
     border:1px solid black;
     margin-left: 200px;
 }
 
 #pizza {
-    color:green;
+    background-color:green;
     text-align: right;
-    margin-right: 30px;
     border:1px solid black;
     margin-left: 200px;
 }
 
 #macaroni {
-    color:rgb(236, 236, 85);
+    background-color:rgb(236, 236, 85);
     text-align:right;
-    margin-right: 30px;
     border:1px solid black;
     margin-left: 200px;
 }
