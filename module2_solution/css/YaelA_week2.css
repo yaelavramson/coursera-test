@@ -6,25 +6,25 @@ h1 {
 
 #sushi {
     background-color:tomato;
-    text-align: right;
+    float: right;
     border:1px solid black;
-    margin-left: 200px;
+    /* margin-left: 200px; */
     margin-top: 0px;
 }
 
 #pizza {
     background-color:green;
-    text-align: right;
+    float: right;
     border:1px solid black;
-    margin-left: 200px;
+    margin-left: 7%;
     margin-top: 0px;
 }
 
 #macaroni {
     background-color:rgb(236, 236, 85);
-    text-align:right;
+    float:right;
     border:1px solid black;
-    margin-left: 200px;
+    margin-left: 7%;
     margin-top: 0px;
 }
 div {
@@ -32,7 +32,7 @@ div {
    background-color: cyan;
    width: 90%;
    margin-right: auto;
-   margin-left: 40px;
+   margin-left: 7%;
    margin-bottom: 40px;
    min-height: 600px;
    
@@ -41,6 +41,8 @@ div {
 p {
     color:violet;
     min-height: 212px;
+    margin-top: 10%;
+    margin-left: 1%
 }
 
 @media (min-width: 992px) {
@@ -56,7 +58,12 @@ p {
     .col-md-6 {
         float: left;
         border: 1px solid black;
-        width: 40.33%
+        width: 40%;
+    }
+    #pasta {
+        width: 87.5%;
+        margin-right:5.80%;
+        margin-left:6.70%;
     }
 
 }
