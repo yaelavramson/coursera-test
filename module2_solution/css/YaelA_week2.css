@@ -8,7 +8,6 @@ h1 {
     background-color:tomato;
     float: right;
     border:1px solid black;
-    /* margin-left: 200px; */
     margin-top: 0px;
 }
 
@@ -16,40 +15,38 @@ h1 {
     background-color:green;
     float: right;
     border:1px solid black;
-    margin-left: 7%;
     margin-top: 0px;
 }
 
 #macaroni {
     background-color:rgb(236, 236, 85);
     float:right;
-    border:1px solid black;
-    margin-left: 7%;
     margin-top: 0px;
+    border: 1px solid black;
 }
 div {
-   border: 1px solid black;
    background-color: cyan;
    width: 90%;
    margin-right: auto;
-   margin-left: 7%;
    margin-bottom: 40px;
    min-height: 600px;
-   
+   margin-left: 5%;
+   border: 1px solid black;
 }
 
 p {
     color:violet;
     min-height: 212px;
     margin-top: 10%;
-    margin-left: 1%
 }
 
 @media (min-width: 992px) {
     .col-lg-3 {
         float:left;
         border: 1px solid black;   
-        width: 20.33%;
+        width: 30%;
+        margin-left: 2.5%
+        
     }
 
 }
@@ -58,12 +55,13 @@ p {
     .col-md-6 {
         float: left;
         border: 1px solid black;
-        width: 40%;
+        width: 45%;
+        margin-left:3.33%
     }
     #pasta {
-        width: 87.5%;
-        margin-right:5.80%;
-        margin-left:6.70%;
-    }
+        width: 93.34%;
+        margin-left:3.33%;
+       }
 
 }
+
