@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(7, 5, 2);
+    font-family: 'Oxygen', sans-serif;
+}
+
+#hi {
+    margin-top: relative;
+}
+
+h1 {
+    font-size: relative;
+}
+
+#nav-list {
+    background-color: tomato;
+    text-align: center;
+}
+
+.menu_section {
+    margin-left: auto;
+    border: 1px solid wheat;
+    margin-right: auto;
+    color: rgb(231, 130, 226);
+    max-width: 990px;
+    background-color: rgb(9, 77, 70);
+    margin-top: 70px;
+    margin: relative;
+    margin-bottom: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(113, 230, 148);
+}
+
+h2 {
+    text-align: center;
+    color: yellow;
+}
+
+
+/** header **/
+
+#header-nav {
+    background-color: pink;
+    border-radius: 0;
+    border: 0;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#header-navbar {
+    text-align: left;
+    color: rgb(26, 10, 10);
+    margin-top: 0vw;
+    margin-left: 0vw;
+    margin-bottom: 60px;
+}
